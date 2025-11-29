@@ -1,0 +1,3 @@
+issue_id,aud_id,issue_type,details,status,created_at,resolved_at,resolved_by
+ISS0001,AUD3,sound,error,OPEN,2025-10-28 13:52,,
+ISS0002,AUD3,sound,error,OPEN,2025-10-28 14:17,,
